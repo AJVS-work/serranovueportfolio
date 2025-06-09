@@ -1,0 +1,33 @@
+/* Light mode - warm brown */
+body.bg-light {
+  background-color: #d7ccc8 !important; /* lighter brown */
+  color: #3e2723 !important;
+}
+
+/* Dark mode - deep brown */
+body.bg-dark {
+  background-color: #3e2723 !important; /* dark brown */
+  color: #fbe9e7 !important;
+}
+
+/* Card styling */
+.card {
+  background-color: #5d4037 !important;
+  color: #fbe9e7 !important;
+}
+
+/* Buttons */
+.btn {
+  background-color: #a1887f !important;
+  color: #3e2723 !important;
+  border: none !important;
+}
+
+/* Links */
+a {
+  color: #ffccbc;
+}
+
+a:hover {
+  color: #ffe0b2;
+}
