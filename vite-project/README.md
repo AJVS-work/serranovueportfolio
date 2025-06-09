@@ -2,6 +2,12 @@
 
 # for partial completion of the subject CMPE 30274 - Embedded Systems
 
+# Login Details
+
+# Username: admin
+
+# Password: password
+
 To run the app locally, download the program through a zip file from the provided GitHub link and make sure that the following dependencies are installed:
 
 1. Inside the folder, run a terminal then run the code
